@@ -7,3 +7,4 @@ cd adminpanel
 chmod +x admin.py
 ./admin.py
 ```
+{https://raw.githubusercontent.com/avatarteam20/adminpanel/main/Screen/Capture.PNG}
